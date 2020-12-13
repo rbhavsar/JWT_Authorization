@@ -1,8 +1,8 @@
 # JWT_Authorization
 
-Web based authorization standard , Not for Authentication 
-Microservice  
-Security 
+1. Web based authorization standard , Not for Authentication 
+2. Microservice  
+3. Security 
 
 
 - Normal mechanism where user request , Session ID generated at Server side and Server send back Session ID as Cookie and subsequent call pass the cookie (Browser will do that ) and server identify user 
